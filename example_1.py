@@ -1,3 +1,3 @@
-students = ['Rodislava', 'Kate', 'Valentina', 'Kamola']
+students = ['Rodislava', 'Valentina', 'Kamola']
 
 print(students)
